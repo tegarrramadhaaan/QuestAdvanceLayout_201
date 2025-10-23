@@ -95,3 +95,8 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
         }
     }
 }
+
+// Card identitas mahasiswa
+// Teks bawah copyright
+// Logo UMY di sisi kiri
+
