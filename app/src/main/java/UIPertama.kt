@@ -73,7 +73,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
                     )
                     Text(
                         text = stringResource(id = R.string.alamat),
-                        fontSize = 18.sp,
+                        fontSize = 19.sp,
                         color = Color.Yellow
                     )
                 }
