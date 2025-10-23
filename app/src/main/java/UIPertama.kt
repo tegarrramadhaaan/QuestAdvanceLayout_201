@@ -82,4 +82,7 @@ fun ActivitasPertama(modifier: Modifier = Modifier) {
 
         Spacer(modifier = Modifier.weight(1f))
 
-
+        // Teks bawah
+        Box(
+            modifier = Modifier.fillMaxSize()
+        ) {
